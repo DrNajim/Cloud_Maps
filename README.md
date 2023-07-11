@@ -1,3 +1,12 @@
+# Getting Started Google Maps: An amazing tool used every day!
+
+Create a landing page from your choice (React app )
+Integrate google maps into your code.
+The bloc of Google maps should be centralized in the middle to be well visualized
+Use external libraries for design & good looking of your app
+https://blog.logrocket.com/integrating-google-maps-react/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
